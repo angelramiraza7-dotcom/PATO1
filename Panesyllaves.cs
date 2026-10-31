@@ -6,7 +6,7 @@ using System.Threading;
 namespace patos_estructuras
 {
     class Programp
-    {
+       {
         const int Ancho = 40;
         static readonly Random random = new Random();
 
