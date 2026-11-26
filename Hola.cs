@@ -1,2 +1,0 @@
-ConsoleColor.WriteLine("hola mundooo");
-
